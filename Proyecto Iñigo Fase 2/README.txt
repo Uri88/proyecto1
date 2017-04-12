@@ -1,0 +1,1 @@
+Cada parte de cada asignatura esta en una carpeta diferente. Ademas de que en Java, Centros y Trabajadores estan puestos en 2 Proyectos diferentes, que juntaremos en un futuro.
